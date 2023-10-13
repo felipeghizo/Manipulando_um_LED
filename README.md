@@ -12,4 +12,4 @@
 
 ## Esquema do projeto
 
-![Esquema do projeto](manipulando_um_led.png)
+![Esquema do projeto](manipulando_um_LED.png)
